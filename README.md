@@ -25,7 +25,7 @@ API oriented to extract information from Central Bank of Venezuela website with
 
 ## Authors ✒️
 
-* **Moises Savelli** - *Desarrollador*
+* **Moises Savelli** - *Developer*
 
 ## Expressions of Gratitude 🎁
 
