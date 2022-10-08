@@ -10,7 +10,6 @@ API oriented to extract information from Central Bank of Venezuela website with
 ## Built with 🛠️
 
 * **Python**
-* **Docker**
 * **Docker (Coming soon)**
 * **Docker-compose (Coming soon)**
 * **Prefect cloud (Coming soon)**
